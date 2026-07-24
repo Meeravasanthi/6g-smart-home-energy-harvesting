@@ -105,7 +105,7 @@ remotely instead of only in person.
 - Sensor integration — working with temperature, PIR, object 
   detection, and LDR sensors
 - Embedded systems and Embedded C / Arduino IDE programming
-- Testing, troubleshooting, and debugging circuit wiring
+- Testing, troubleshooting, and debugging, circuit wiring
 
 ## Future Scope
 
